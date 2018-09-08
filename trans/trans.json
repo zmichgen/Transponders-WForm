@@ -1,0 +1,228 @@
+[
+  {
+    "id": 274,
+    "channels": [
+      "DTX",
+      "MTV Dance",
+      "MTV Rock",
+      "Домашние животные",
+      "ЕвроКино",
+      "Киносемья",
+      "Кинохит",
+      "Ля-минор ТВ",
+      "Моя Планета",
+      "Наше Новое Кино",
+      "Совершенно секретно"
+    ]
+  },
+  {
+    "id": 282,
+    "channels": [
+      "Кто есть кто",
+      "BRIDGE TV Русский Хит",
+      "MTV Hits",
+      "Nat Geo Wild",
+      "Paramaunt Channel",
+      "Russian Extreme TV",
+      "Techno 24",
+      "ЖАРА",
+      "Карусель",
+      "Киносвидание",
+      "Мужской: Охота, Рыбылка, Авто",
+      "НСТ"
+    ]
+  },
+  {
+    "id": 290,
+    "channels": [
+      "Amedia 2",
+      "Gulli Girl",
+      "Tiji",
+      "Zоопарк",
+      "Здоровое ТВ",
+      "Киносерия",
+      "Кухня ТВ",
+      "Мама",
+      "Мужское кино",
+      "Оружие",
+      "Театр ",
+      "Телеканал Да Винчи",
+      "Феникс+кино"
+    ]
+  },
+  {
+    "id": 298,
+    "channels": [
+      "Cartoon Network",
+      "Sarafan",
+      "Авто Плюс",
+      "Ваш Успех",
+      "Домашний",
+      "Драйв",
+      "Наш Футбол",
+      "Ретро",
+      "Спорт 1",
+      "Спорт 2",
+      "Телекафе",
+      "Футбол"
+    ]
+  },
+  {
+    "id": 306,
+    "channels": [
+      "Brige TV",
+      "Exyreme Sport",
+      "Galaxy",
+      "MTV",
+      "Ocean TV",
+      "Загородная жизнь",
+      "Мультимания",
+      "Русский Иллюзион",
+      "Телеканал КХЛ",
+      "Юмор ТВ",
+      "Кинопремьера"
+    ]
+  },
+  {
+    "id": 314,
+    "channels": [
+      "2x2",
+      "8 канал",
+      "Paramount Comedy",
+      "TLC",
+      "Вопросы и ответы",
+      "Детский мир",
+      "Индийское кино",
+      "Кинокомедия",
+      "Наше любимое кино",
+      "Перец Int",
+      "Психология 21"
+    ]
+  },
+  {
+    "id": 322,
+    "channels": [
+      "Viasat nature",
+      "TV 1000",
+      "TV 1000 Action",
+      "TV 1000 Русское кино",
+      "Viasat History",
+      "Мир сериала",
+      "Наука 2.0",
+      "Светлое ТВ",
+      "THT int",
+      "THT Music"
+    ]
+  },
+  {
+    "id": 330,
+    "channels": [
+      "Fashion One HD",
+      "FOX HD",
+      "FOX life HD",
+      "RTG TV"
+    ]
+  },
+  {
+    "id": 338,
+    "channels": [
+      "СТВ HD",
+      "Беларусь 1 HD",
+      "Беларусь 2 HD",
+      "Беларусь 3",
+      "Беларусь 5 HD",
+      "МИР",
+      "НТВ-Беларусь",
+      "ОНТ-HD",
+      "РТР-Беларусь"
+    ]
+  },
+  {
+    "id": 346,
+    "channels": [
+      "Discovery Channel",
+      "Euronews",
+      "Nikelodeon",
+      "Viasat Explore",
+      "ВТВ",
+      "Детский",
+      "Иллюзион+",
+      "МУЗ ТВ",
+      "МУЛЬТ",
+      "Ностальгия",
+      "Союз",
+      "Усадьба-ТВ",
+      "Шансон-ТВ"
+    ]
+  },
+  {
+    "id": 354,
+    "channels": [
+      "+TV",
+      "365 дней ТВ",
+      "National Geographic",
+      "Sony Sci-Fi",
+      "Sony Turbo",
+      "VH1 Classic",
+      "Viasat Sport",
+      "ББЧ",
+      "Инфоканал",
+      "Охота и рыбалка",
+      "Россия К"
+    ]
+  },
+  {
+    "id": 362,
+    "channels": [
+      "HD Life",
+      "Mezzo",
+      "Viasat Nature/History HD",
+      "VIP Comedy"
+    ]
+  },
+  {
+    "id": 370,
+    "channels": [
+      "Eurosport 2",
+      "JimJam",
+      "Nick.Junior",
+      "RTVi Europe",
+      "ТВ-21",
+      "VH1 European",
+      "Время: далекое и близкое",
+      "Дом Кино",
+      "Киномикс",
+      "Музыка Первого",
+      "Телемагазин"
+    ]
+  },
+  {
+    "id": 378,
+    "channels": [
+      "1HD",
+      "MGM HD",
+      "MTV Live HD",
+      "Setanta Eurasia+HD",
+      "Sony HD"
+    ]
+  },
+  {
+    "id": 386,
+    "channels": [
+      "English Club HD",
+      "Live Music Channel HD",
+      "Travel+Adventure",
+      "Охотник и рыболов HD"
+    ]
+  },
+  {
+    "id": 394,
+    "channels": [
+      "Eurosport HD",
+      "Nat Geo Wild HD",
+      "National Geographic HD",
+      "Nickelodeon HD",
+      "Setanta Eurasia HD"      
+    ]
+  }
+]
